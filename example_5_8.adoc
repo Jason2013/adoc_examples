@@ -1,0 +1,5 @@
+= 链接
+
+http://www.google.com
+
+http://www.google.com[谷歌]
