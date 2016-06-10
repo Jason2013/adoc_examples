@@ -1,0 +1,9 @@
+= 图片
+
+image::test.jpg[]
+
+内联模式的“图 image:test.jpg[height=20] 片”可以显示在文字的中间。 (1)
+
+块模式的效果：
+
+image::test.jpg[title="Levitating GNU",scaledwidth="50%",align="center"]
