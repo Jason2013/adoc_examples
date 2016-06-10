@@ -1,0 +1,13 @@
+
+
+= 索引功能
+
+indexterm:[a,b,c]
+
+This is a indexterm2:[tiger].
+
+是否支持indexterm2:[中文索引]呢？
+
+[index]
+== example index
+

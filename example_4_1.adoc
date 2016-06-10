@@ -1,0 +1,6 @@
+
+只给定脚注内容footnote:[脚注示例]。
+
+给定脚注内容和脚注IDfootnoteref:[ft_ex, 含ID的脚注示例]。
+
+对给定ID的脚注的引用footnoteref:[ft_ex]。
