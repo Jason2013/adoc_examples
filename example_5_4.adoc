@@ -1,0 +1,14 @@
+== 引用
+
+[quote, GNU, from The Free Software Definition]
+“Free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.”
+
+////
+[verse, GNU, from The Free Software Definition]
+“Free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.”
+
+
+----
+https://github.com/Jason2013/adoc_examples.git
+----
+////
